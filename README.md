@@ -1,6 +1,6 @@
 # Python_webapp_to_minikube_k8s
 
-### Prerequites
+### Prerequisites
 - Install Docker
 - Install Minikube
 
